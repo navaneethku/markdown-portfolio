@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Food
+* Programming
+* Gaming
+* Geeking over new stuff in the tech world
+  * Laptops
+  * Processor/Graphics Cards
+  * Smartphones etc
